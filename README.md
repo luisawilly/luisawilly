@@ -60,5 +60,5 @@ Atualmente aprofundando conhecimentos em:
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=luisawilly&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luisawilly&layout=compact&theme=radical)
