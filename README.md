@@ -26,7 +26,7 @@ Trabalho com **Power BI, SQL, Excel Avançado** e **Python** para estruturar, an
 
 ## 📂 Projetos em destaque
 *(Mais projetos em breve)*  
-- **[Análise de Vendas com Power BI](#)** – Dashboard interativo mostrando métricas de desempenho e oportunidades de crescimento.  
+- **[Análise de Vendas com Power BI](analise-vendas-ecommerce)** – Dashboard interativo mostrando métricas de desempenho e oportunidades de crescimento.  
 
 ---
 
